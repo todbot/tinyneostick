@@ -2264,7 +2264,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "todbot_stuff:Pins_1x03_P2.54mm_Horizontal_SMT"
+		(property "Footprint" "todbot_stuff:Pins_1x03_P2.54mm_Horizontal_SMT_bigger"
 			(at 246.38 136.525 0)
 			(effects
 				(font
@@ -4633,7 +4633,7 @@
 				)
 			)
 		)
-		(property "Footprint" "todbot_stuff:Pins_1x03_P2.54mm_Horizontal_SMT"
+		(property "Footprint" "todbot_stuff:Pins_1x03_P2.54mm_Horizontal_SMT_bigger"
 			(at 73.66 65.405 0)
 			(effects
 				(font
